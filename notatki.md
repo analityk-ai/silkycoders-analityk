@@ -14,6 +14,6 @@ python --version
 
 
 # Ankieta I
-ankieta I do przekazania uczestnikom na pierwszych zajęciach 12.01 -  https://isacademy.typeform.com/to/wmXqyPvr 
+ankieta I do przekazania uczestnikom na pierwszych zajęciach 12.01
+ -  https://isacademy.typeform.com/to/wmXqyPvr 
 
-ev45ive@gmail.com
