@@ -158,3 +158,8 @@
 ---
 
 *Notes taken by Alex - might have missed some stuff in the middle when connection dropped*
+
+
+---
+# Next Steps:
+- 13-01. Lista pytań do uszczegółowienia wymaga.md
