@@ -18,3 +18,20 @@ docker run -d -p 5432:5432 -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=admin ank
 - **Port:** 5432
 - **Username:** admin
 - **Password:** admin
+
+
+## Docker Compose
+
+To run pgvector using Docker Compose:
+
+```bash
+docker-compose up -d
+```
+
+This will start the pgvector container in detached mode using the configuration defined in your `docker-compose.yml` file.
+
+To stop the container:
+
+```bash
+docker-compose down
+```
