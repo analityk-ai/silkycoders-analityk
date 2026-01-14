@@ -17,3 +17,8 @@ python --version
 ankieta I do przekazania uczestnikom na pierwszych zajęciach 12.01
  -  https://isacademy.typeform.com/to/wmXqyPvr 
 
+# ankieta II 
+ do przekazania uczestnikom na ostatnich zajęciach 14.01 
+ -  https://isacademy.typeform.com/to/r0fpQMxm
+
+ 

@@ -3,7 +3,8 @@
     "microsoft/playwright-mcp": {
       "type": "stdio",
       "command": "npx",
-      "args": ["@playwright/mcp@latest --shared-browser-context --storage-state=./mcp/storage-state"]
+      "args": ["@playwright/mcp@latest", "--shared-browser-context" ]
     }
   }
 }
+    
