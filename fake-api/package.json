@@ -1,0 +1,22 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "Local fake API server with JSONPlaceholder data",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "dev": "json-server --watch db.json --port 3000 --delay 500"
+  },
+  "keywords": [
+    "json-server",
+    "rest-api",
+    "fake-api",
+    "jsonplaceholder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {}
+}
