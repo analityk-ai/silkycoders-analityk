@@ -4,6 +4,17 @@
       "type": "stdio",
       "command": "npx",
       "args": ["@playwright/mcp@latest", "--shared-browser-context" ]
+    },
+    "io.github.bytebase/dbhub": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@bytebase/dbhub@latest",
+        "--transport",
+        "stdio",
+        "--dsn",
+        "postgres://${DB_USER:admin}:${DB_PASSWORD:admin}@${DB_HOST:localhost}:${DB_PORT:5432}/postgres?sslmode=disable"
+      ]
     }
   }
 }
