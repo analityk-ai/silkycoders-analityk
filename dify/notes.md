@@ -1,0 +1,1 @@
+https://docs.dify.ai/en/self-host/quick-start/docker-compose#deploy-dify-with-docker-compose
